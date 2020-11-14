@@ -1,0 +1,37 @@
+body{
+	background-color: #ff0644;
+	box-sizing: border-box;
+	
+	
+
+	align-self: center;
+	align-content: center;
+	align-items: center;
+	justify-content: center;
+    
+   
+}
+header{background-color: green;
+	box-sizing: border-box;
+
+
+	align-content:  center;
+	border: 50px black ;
+	
+
+
+    color: black;
+}
+.se{
+	background-color: white;
+	text-align: center;
+	 color: red;
+}
+.int{background-color: gray;
+	text-align: center
+     }
+.pro{background-color: yellow;
+	text-align: center
+
+
+}
