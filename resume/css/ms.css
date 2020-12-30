@@ -1,0 +1,50 @@
+body{
+	background-color: #fcfcfc;
+	box-sizing: border-box;
+
+    
+   
+}
+
+.hd{
+	background-color: #fdfdfd;
+	box-sizing: border-box;
+	display: inline-block ;
+	padding: 3px;
+	align-items: center;
+	align-content:  center;
+	border: outset 10px rgb(31, 7, 7);
+	color: black;
+
+}
+.main{
+	box-sizing: border-box;
+	display: block;
+	margin: 10%;
+	padding: 10px;
+	border: solid 2px;
+}
+li{ box-sizing: border-box;
+	display: inline-block;
+	width: 50px;
+	border: inset 2px #9c9ce2;
+	background-color: rgb(29, 201, 52);
+	align-self: start;
+	
+}
+.se{
+	background-color: white;
+	text-align: center;
+	 color: red;
+}
+.int{background-color: gray;
+	text-align: center
+     }
+.pro{background-color: yellow;
+	text-align: center
+
+
+}
+.vd{
+	align-self: center;
+}
